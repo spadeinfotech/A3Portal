@@ -1,0 +1,8 @@
+com\spade\filereader\ReadWER.class
+com\spade\testcases\ColourSearch.class
+com\spade\PageActions\Testexecutor.class
+com\spade\startup\StartupTest.class
+com\spade\readexcel\ExcelLibrary.class
+com\spade\testcases\ColourRequestCR.class
+com\spade\testcases\CRLogin.class
+com\spade\testcases\Login.class

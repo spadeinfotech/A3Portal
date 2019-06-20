@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ first Test Suite]">
+  <test name="test 1(failed)">
+    <classes>
+      <class name="com.spade.testngtestcases.AdminLogin">
+        <methods>
+          <include name="Adminlogintest"/>
+        </methods>
+      </class> <!-- com.spade.testngtestcases.AdminLogin -->
+    </classes>
+  </test> <!-- test 1(failed) -->
+</suite> <!-- Failed suite [ first Test Suite] -->

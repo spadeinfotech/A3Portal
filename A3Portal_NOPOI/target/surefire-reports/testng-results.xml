@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="A3 portal Automation test suite-Data Driven Approach" duration-ms="21996" started-at="2019-06-20T10:06:47Z" finished-at="2019-06-20T10:07:09Z">
+    <groups>
+    </groups>
+    <test name="Login test" duration-ms="21996" started-at="2019-06-20T10:06:47Z" finished-at="2019-06-20T10:07:09Z">
+      <class name="com.spade.startup.StartupTest">
+        <test-method status="PASS" signature="TestStartUp()[pri:0, instance:com.spade.startup.StartupTest@1a407d53]" name="TestStartUp" duration-ms="21970" started-at="2019-06-20T15:36:47Z" finished-at="2019-06-20T15:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStartUp -->
+      </class> <!-- com.spade.startup.StartupTest -->
+    </test> <!-- Login test -->
+  </suite> <!-- A3 portal Automation test suite-Data Driven Approach -->
+</testng-results>

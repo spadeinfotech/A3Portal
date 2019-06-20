@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="A3 portal Automation test suite-Data Driven Approach" verbose="1">
+
+<test name="Login test" >
+<classes>
+<class name="com.spade.startup.StartupTest"></class>
+</classes>
+</test>
+
+ </suite>
