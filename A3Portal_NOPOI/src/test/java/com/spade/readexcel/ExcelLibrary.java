@@ -7,7 +7,6 @@ import java.util.ArrayList;
 
 import org.apache.poi.EncryptedDocumentException;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import org.apache.poi.ss.format.CellFormatType;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
@@ -18,7 +17,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class ExcelLibrary {
 	
-static String file=".\\Testcases\\testscenarios.xlsx";	
+static String file="C:\\Ankit-WorkArea\\Gitworkspace-A3NOPOM\\A3Portal_NOPOI\\Testcases\\testscenarios.xlsx";	
 public int Getrowcount(String sheetname) throws EncryptedDocumentException, InvalidFormatException, IOException {
 int ratval=0;
 FileInputStream fis=new FileInputStream(file);

@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="A3 portal Automation test suite-Data Driven Approach" duration-ms="21996" started-at="2019-06-20T10:06:47Z" finished-at="2019-06-20T10:07:09Z">
+  <suite name="A3 portal Automation test suite-Data Driven Approach" duration-ms="36172" started-at="2019-06-26T09:01:07Z" finished-at="2019-06-26T09:01:44Z">
     <groups>
     </groups>
-    <test name="Login test" duration-ms="21996" started-at="2019-06-20T10:06:47Z" finished-at="2019-06-20T10:07:09Z">
+    <test name="Login test" duration-ms="36172" started-at="2019-06-26T09:01:07Z" finished-at="2019-06-26T09:01:44Z">
       <class name="com.spade.startup.StartupTest">
-        <test-method status="PASS" signature="TestStartUp()[pri:0, instance:com.spade.startup.StartupTest@1a407d53]" name="TestStartUp" duration-ms="21970" started-at="2019-06-20T15:36:47Z" finished-at="2019-06-20T15:37:09Z">
+        <test-method status="PASS" signature="TestStartUp()[pri:0, instance:com.spade.startup.StartupTest@1a407d53]" name="TestStartUp" duration-ms="36145" started-at="2019-06-26T14:31:07Z" finished-at="2019-06-26T14:31:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestStartUp -->

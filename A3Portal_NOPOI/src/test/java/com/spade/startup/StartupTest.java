@@ -51,7 +51,7 @@ public class StartupTest {
 	  for(int testscenario=1;testscenario<=totaltests;testscenario++) {
 	  	
 	  	String executionstatus=ExcelLibrary.getexcelStringvalue("scenarios", testscenario, 1);
-	  	System.out.println(executionstatus);
+	  	System.out.println("test Module execution status"+executionstatus);
 //	  	System.out.println(executionstatus);
 	  	if(executionstatus.equalsIgnoreCase("yes")) {
 	  String scenarioname=ExcelLibrary.getexcelStringvalue("scenarios", testscenario, 0);

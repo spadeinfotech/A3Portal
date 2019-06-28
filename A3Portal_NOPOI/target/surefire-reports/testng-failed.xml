@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [A3 portal Automation test suite-Data Driven Approach]">
+  <test name="Login test(failed)">
+    <classes>
+      <class name="com.spade.startup.StartupTest">
+        <methods>
+          <include name="TestStartUp"/>
+        </methods>
+      </class> <!-- com.spade.startup.StartupTest -->
+    </classes>
+  </test> <!-- Login test(failed) -->
+</suite> <!-- Failed suite [A3 portal Automation test suite-Data Driven Approach] -->
